@@ -1,0 +1,15 @@
+cucumber: vegetable
+mango: fruit
+lettuce: vegetable
+pineapple: fruit
+pear: fruit
+eggplant: vegetable
+garlic: vegetable
+apple: fruit
+kiwi: fruit
+tomato: fruit
+onion: vegetable
+something: unknown
+nothing: unknown
+foo: unknown
+bar: unknown
